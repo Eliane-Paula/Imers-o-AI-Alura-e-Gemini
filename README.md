@@ -1,7 +1,3 @@
-Com certeza\! Este é um ótimo projeto. Segue a estrutura do `README.md` para o seu "Chatbox Pizzaria - Arrasa Pizza", utilizando Markdown para uma apresentação clara e profissional.
-
------
-
 # 🍕 Chatbox Pizzaria - Arrasa Pizza
 
 Este projeto simula um sistema de chatbox para a pizzaria "Arrasa Pizza". Ele permite que os clientes façam pedidos de pizza e bebidas através de uma interface de linha de comando, oferecendo uma experiência interativa e personalizada.
@@ -130,9 +126,6 @@ Você tem duas opções para rodar o projeto:
 
 -----
 
-## 📞 Contato
-
-Se você tiver alguma dúvida, sugestão ou quiser contribuir, sinta-se à vontade para abrir uma *issue* neste repositório ou entrar em contato:
 
   * **[Seu Nome/GitHub Username]**
   * **Email:** [seu\_email@example.com]
