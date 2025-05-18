@@ -127,9 +127,5 @@ Você tem duas opções para rodar o projeto:
 -----
 
 
-  * **[Seu Nome/GitHub Username]**
-  * **Email:** [seu\_email@example.com]
+ 
 
------
-
-Espero que este README te ajude a apresentar seu projeto de forma eficaz\! Se precisar de mais alguma coisa, me avise.
